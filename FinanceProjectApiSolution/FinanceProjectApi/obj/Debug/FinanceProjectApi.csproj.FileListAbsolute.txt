@@ -65,3 +65,7 @@ C:\Users\Anisha\Desktop\LTI\ProjectGladiator\FinanceManagementSystem\Project_Cod
 C:\Users\Anisha\Desktop\LTI\ProjectGladiator\FinanceManagementSystem\Project_Code\FinanceProjectApiSolution\FinanceProjectApi\obj\Debug\FinanceProjectApi.csproj.CopyComplete
 C:\Users\Anisha\Desktop\LTI\ProjectGladiator\FinanceManagementSystem\Project_Code\FinanceProjectApiSolution\FinanceProjectApi\obj\Debug\FinanceProjectApi.dll
 C:\Users\Anisha\Desktop\LTI\ProjectGladiator\FinanceManagementSystem\Project_Code\FinanceProjectApiSolution\FinanceProjectApi\obj\Debug\FinanceProjectApi.pdb
+C:\Users\Anisha\Desktop\LTI\ProjectGladiator\FinanceManagementSystem\Project_Code\FinanceProjectApiSolution\FinanceProjectApi\bin\EntityFramework.dll
+C:\Users\Anisha\Desktop\LTI\ProjectGladiator\FinanceManagementSystem\Project_Code\FinanceProjectApiSolution\FinanceProjectApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Anisha\Desktop\LTI\ProjectGladiator\FinanceManagementSystem\Project_Code\FinanceProjectApiSolution\FinanceProjectApi\bin\EntityFramework.xml
+C:\Users\Anisha\Desktop\LTI\ProjectGladiator\FinanceManagementSystem\Project_Code\FinanceProjectApiSolution\FinanceProjectApi\bin\EntityFramework.SqlServer.xml
