@@ -143,6 +143,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Model1.edmx</DependentUpon>
     </Compile>
+    <Compile Include="Models\AdminUserDetailsMeta.cs" />
     <Compile Include="Models\CardDetailsMeta.cs" />
     <Compile Include="Models\CardTypeMstrMeta.cs" />
     <Compile Include="Models\CustMastMeta.cs" />
